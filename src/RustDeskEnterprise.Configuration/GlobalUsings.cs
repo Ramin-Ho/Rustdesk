@@ -1,0 +1,9 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using Microsoft.Extensions.Configuration;
+global using RustDeskEnterprise.Shared.Models;
+global using RustDeskEnterprise.Shared.Interfaces;
+global using RustDeskEnterprise.Shared.Constants;
+global using RustDeskEnterprise.Shared.Exceptions;
