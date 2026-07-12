@@ -1,0 +1,11 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using Xunit;
+global using RustDeskEnterprise.Shared.Models;
+global using RustDeskEnterprise.Shared.Interfaces;
+global using RustDeskEnterprise.Shared.Exceptions;
+global using RustDeskEnterprise.Shared.Enums;
+global using RustDeskEnterprise.Configuration.Services;
+global using RustDeskEnterprise.Configuration.Validators;
